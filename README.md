@@ -1,5 +1,5 @@
 # Wavecon_analysis
-**project overview:**
+**Project overview:**
 Wavecon Telecom's 5G launch in May unlocked opportunities and posed challenges. This analysis explores revenue trends, user adoption, market dynamics, and strategic actions to drive growth and success.
 
 **objective:**
@@ -34,7 +34,7 @@ Wavecon Telecom's 5G launch in May unlocked opportunities and posed challenges. 
 **Recommendations:**
 
  - **Investigate User Drop-Off:**  
-  Look into why active users are declining, especially in Delhi and Mumbai, to identify and fix the key issues.
+  To identify and fix the key issues, consider why active users are declining, especially in Delhi and Mumbai.
 
 
 - **Leverage ARPU Insights:**  
@@ -51,6 +51,11 @@ Wavecon Telecom's 5G launch in May unlocked opportunities and posed challenges. 
 
 - **Tailored Marketing:**  
   Use city-specific insights to create marketing campaigns and offers that meet the unique needs of each region.
+
+## Presentation Link
+
+[Explore the PresentationLink here](https://app.presentations.ai/view/wQthnf)
+
   
 
 
