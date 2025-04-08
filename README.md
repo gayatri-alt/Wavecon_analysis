@@ -1,5 +1,5 @@
 # Wavecon_analysis
-**Project overview:**
+**Project Overview:**
 Wavecon Telecom's 5G launch in May unlocked opportunities and posed challenges. This analysis explores revenue trends, user adoption, market dynamics, and strategic actions to drive growth and success.
 
 **objective:**
